@@ -1,13 +1,14 @@
 
 #include "Graph.hpp"
 #include "Edge.hpp"
-#inlclude "BaseNode.hpp"
+#include "BaseNode.hpp"
 #include "Node.hpp"
 
 using namespace std;
-
+//luca tomassi passed by here.
 void test1();
 void test2();
+//also here
 
 int main(){
     test1();
@@ -60,7 +61,7 @@ void test1(){
     g.print();
     g.setDirected(true);
     g.print();
-    cout << g.valueContained<string>("abc", BaseNode::s) << endl;
+   // cout << g.valueContained<string>("abc", BaseNode::s) << endl;
 }
 void test2(){
     BaseNode* s = new Node<string>(BaseNode::st,"test");

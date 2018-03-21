@@ -30,7 +30,7 @@ public:
     void printPathFromNode(BaseNode* n); // Print the possible paths from a specific node
     bool edgeExists(Edge* e); // Tests if an edge is part of the graph
     bool nodeExists(BaseNode* n); // Tests if a node if part of the graph
-    template<typename T> bool valueContained(T value, BaseNode::Types type){ // Tests if a certain value if contained
+   /* template<typename T> bool valueContained(T value, BaseNode::Types type){ // Tests if a certain value if contained
         for(size_t i = 0; i < nodeCount; i++){
             if(type == nodes[i]->getType()){
                 if(static_cast<Node<T>*>(nodes[i])->getValue() == value){
@@ -40,6 +40,7 @@ public:
         }
         return false;
     }
+    */
 private:
     unsigned int nodeCount; // Keeps the number of nodes
     unsigned int edgeCount; // Keeps the number of edges
