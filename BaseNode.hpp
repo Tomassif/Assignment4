@@ -11,6 +11,7 @@
 
 class BaseNode{
 	public:
+		//testing github123
 		// Since we cannot get the type on runtime (despite our many attempts)
 		// we decided to go for an enum for the type of the node to do the proper casting.
 		enum Types {st, //string

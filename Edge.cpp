@@ -5,7 +5,9 @@
 #include "Edge.hpp"
 #include "BaseNode.hpp"
 
-Edge::Edge(){
+//testing 123 github here
+//luca was here
+Edge::Edge(){ 
     direction = false;
     node1 = NULL;
     node2 = NULL;
