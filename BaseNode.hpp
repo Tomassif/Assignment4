@@ -8,6 +8,8 @@
 
 #include <iostream>
 #include <typeinfo>
+#include "Node.hpp"
+#include "Edge.hpp"
 
 class BaseNode{
 	public:

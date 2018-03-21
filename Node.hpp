@@ -6,7 +6,7 @@
 #define ASSIGNMENT4_VERTEX_HPP
 
 #include "Graph.hpp"
-#include "BaseNode.h"
+#include "BaseNode.hpp"
 
 using namespace std;
 

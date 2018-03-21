@@ -19,3 +19,8 @@ cmake-build-debug/CMakeFiles/3.9.6/CompilerIdC/CMakeCCompilerId.c
 cmake-build-debug/CMakeFiles/3.9.6/CompilerIdC/a.exe
 .idea/Assignment4.iml
 .gitattributes
+cmake-build-debug/CMakeFiles/Assignment4.dir/CXX.includecache
+cmake-build-debug/CMakeFiles/Assignment4.dir/depend.internal
+*.internal
+cmake-build-debug/CMakeFiles/Progress/2
+cmake-build-debug/CMakeFiles/Progress/1
