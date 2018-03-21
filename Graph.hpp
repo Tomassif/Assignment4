@@ -49,7 +49,7 @@ private:
     bool directed; // States if the graph is directed or not
 };
 
-#endif /* GRAPH_H_ */
+
 
 /*
 class Graph {

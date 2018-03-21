@@ -2,8 +2,8 @@
 // Created by tomas on 2018-03-11.
 //
 
-#ifndef ASSIGNMENT4_VERTEX_HPP
-#define ASSIGNMENT4_VERTEX_HPP
+#ifndef ASSIGNMENT4_NODE_HPP
+#define ASSIGNMENT4_NODE_HPP
 
 #include "Graph.hpp"
 #include "BaseNode.hpp"
@@ -42,7 +42,6 @@ private:
 
 
 
-#endif /* NODE_H_ */
 
 
-#endif //ASSIGNMENT4_VERTEX_HPP
+#endif //ASSIGNMENT4_NODE_HPP
